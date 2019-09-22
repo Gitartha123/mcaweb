@@ -1,0 +1,23 @@
+.sidenav {
+    width: 10%;
+    height: 100%;
+    background-image: linear-gradient(to right, #93daf8, white);
+    overflow-x: hidden;
+}
+
+.sideword {
+    font-size: 25px;
+    direction: ltr;
+    text-transform: capitalize;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+
+}

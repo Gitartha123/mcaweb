@@ -7,7 +7,7 @@
                              height="100px" class="a1-animate-zoom"></td>
                     <td class="a1-padding a1-animate-zoom"><span
                                 style="text-align:center; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; font-size:18px; line-height:normal;">
-                  <b style="width:32px;">DEPARTMENT OF COMPUTER APPLICATION</b><br>
+                  <b style="width:32px;">--DEPARTMENT OF COMPUTER APPLICATION--</b><br>
                   <font color="red"><b>ASSAM ENGINEERING COLLEGE</b></font><br>
                   Estd. 1956
                   </span>
